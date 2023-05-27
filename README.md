@@ -2,7 +2,7 @@
 
 # Note
 
-This project is no longer maintained. I no longer have the time, nor the motivation, to maintain it. It may still work for you, but I make no guarantees. I may come back to it at some point in the future, but no guarantees on that either.
+This fork is going to attempt to maintain and improve the original by Jeff Hughes.  Issues and PRs are welcome, but please be patient while I learn Rust.  :)    -- Ranko Kohime
 
 # Shellcaster
 
